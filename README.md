@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+
+<h3 align="center"><b>Contact</b></h3>
+<p align="center">
+<a href="mailto:tbnsok40@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> &nbsp
+<a href="https://www.linkedin.com/in/sunghoo-lim-7a2238195/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> &nbsp
+</p>
+
+<h3 align="center"><b>Skills</b></h3>
+<p align="center">
+</p>
+
+
+<p align="center">
+<img src="http://mazassumnida.wtf/api/pastel/generate_badge?boj=tbnsok40&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=tbnsok40&theme=warm"/>
+</p>
 <!--
 **hugehoo/hugehoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
