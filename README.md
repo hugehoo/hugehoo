@@ -8,10 +8,19 @@
 </p>
 
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=java,springboot&theme=light)](https://skillicons.dev) -->
 
 
+<h3 align="center"><b>Tech Stacks</b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+<!--     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /> -->
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql,py,redis,aws,git,docker&theme=light&perline=3" />
+    
+  </a>
+</p>
 
+
+<!--
 **hugehoo/hugehoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,3 +33,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+-->
