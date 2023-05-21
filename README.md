@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /> -->
-        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,py,mysql,aws,redis,kafka,docker,git&theme=light&perline=5" />
+        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,py,mysql,aws,redis,grafana,prometheus,docker,kafka,git&theme=light&perline=4" />
     
   </a>
 </p>
