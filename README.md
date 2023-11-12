@@ -11,11 +11,18 @@
 
 
 <h3 align="center"><b>Tech Stacks</b></h3>
+
+<h5 align="center"><b>Frequently using</b></h5>
 <p align="center">
   <a href="https://skillicons.dev">
-<!--     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" /> -->
-        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,py,mysql,aws,redis,grafana,kotlin,kafka,docker,go,git,linux,vim&theme=light&perline=5" />
-    
+        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,py,mysql,linux,git,docker,aws&theme=light&perline=3" />
+  </a>
+</p>
+
+<h5 align="center"><b>Currently learning</b></h5>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=redis,grafana,kotlin,kafka,go,vim&theme=light&perline=3" />
   </a>
 </p>
 
