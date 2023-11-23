@@ -26,6 +26,12 @@
   </a>
 </p>
 
+<h3 align="center"><b>Certificate</b></h5>
+<p align="center">
+    <a href="https://www.credly.com/earner/earned/badge/102a07f8-b57d-4621-87d9-59aaf3d96238">
+        <img src="https://github.com/hugehoo/hugehoo/assets/92839864/ed992ba0-d6b6-4b45-a31b-dff2b4cdd002" width="150" height="150"/>
+  </a>
+</p>
 
 <!--
 **hugehoo/hugehoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
