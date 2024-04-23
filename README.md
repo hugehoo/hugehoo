@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h3 align="center"><b>Currently Operating</b></h3>
+<h3 align="center"><b>Operated Side Projects</b></h3>
 <p align="center">
     <a href="https://apps.apple.com/kr/app/tidify/id6449292500">
         <img src="https://github.com/hugehoo/hugehoo/assets/92839864/f2efed34-68e6-4fd0-83a7-ca43aeb6aa1a" width="100"
