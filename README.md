@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 <h3 align="center"><b>Operated Side Projects</b></h3>
 <p align="center">
     <a href="https://apps.apple.com/kr/app/tidify/id6449292500">
@@ -29,6 +28,14 @@
 
 <br/>
 
+<p align="center">
+<a href="https://github.com/imysh578">
+    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugehoo&layout=compact&theme=graywhite&hide_border=false" />
+</a> 
+</p>
+
+<br/>
+
 <h3 align="center"><b>Certificate</b></h3>
 <p align="center">
     <a href="https://www.credly.com/badges/102a07f8-b57d-4621-87d9-59aaf3d96238/linked_in_profile">
@@ -36,6 +43,9 @@
              width="150" height="150"/>
     </a>
 </p>
+
+<br/>
+
 
 <br/>
 
