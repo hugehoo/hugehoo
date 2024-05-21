@@ -3,28 +3,28 @@
 ## Backend Developer
 
 - language: Korean, English
-
+- interested in: improving performance, test code, refactoring, Kotlin, Golang
 - work history  
 
-  - Tripbtoz, backend developer (Seoul, Korea)  
-    2023.05 ~ 
+  - Tripbtoz, backend developer (2023.05 ~ )  
+    
     - Led the enhancement of the back-office system
-        - Spearheaded the comprehensive upgrade of the hotel booking and notification system, contributing to improved process efficiency and user experience
+    - Spearheaded the comprehensive upgrade of the hotel booking and notification system, contributing to improved process efficiency and user experience
     - Built business infrastructure for profitability improvement
-        - Developed an enterprise notification system based on AWS MSK, enhancing app push functionality and supporting marketing team operations
-        - Designed and developed an integration project with external financial institutions, contributing to the acquisition of 200,000 new members
+    - Developed an enterprise notification system based on AWS MSK, enhancing app push functionality and supporting marketing team operations
+    - Designed and developed an integration project with external financial institutions, contributing to the acquisition of 200,000 new members
   
-  - Fitpet, backend developer (Seoul, Korea)  
-    2022.08 ~ 2023.02
+  - Fitpet, backend developer (2022.08 ~ 2023.02)  
+    
     - Enhanced hospital lookup/search service
-        - Achieved a 240% increase in weekly user visits compared to the previous version, reaching a peak MAU of 45,000.
+    - Achieved a 240% increase in weekly user visits compared to the previous version, reaching a peak MAU of 45,000.
     - Designed the database and implemented data structures and logic for the hospital service
-        - Improved hospital lookup filters to enhance UX
+    - Improved hospital lookup filters to enhance UX
     - Developed a common image upload module using AWS S3
     - Improved display performance through image resizing
     - Improved and maintained the admin service (Django Admin system)
 
-- interested in: improving performance, test code, refactoring, Kotlin, Golang
+
 
 <hr/>
 
