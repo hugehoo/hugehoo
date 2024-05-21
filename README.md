@@ -3,7 +3,7 @@
 ## Backend Developer
 
 - language: Korean, English
-- interested in: improving performance, test code, refactoring, Kotlin, Golang
+- interested in: `event driven architectures`, `test code`, `Kotlin`, `Golang`
 - work history  
 
   - Tripbtoz, backend developer (2023.05 ~ )  
