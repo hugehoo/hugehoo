@@ -3,7 +3,7 @@
 ## Backend Developer
 
 - language: Korean, English
-- interested in: `event driven architectures`, `test code`, `Golang`
+- interested in: `java`, `spring framework`, `Golang`
 - work history  
   - Tripbtoz, backend developer (2023.05 ~ )  
   - Fitpet, backend developer (2022.08 ~ 2023.02)  
