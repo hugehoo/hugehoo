@@ -35,7 +35,7 @@
 <h5 align="center"><b>Now learning</b></h5>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=redis,grafana,kotlin,go,vim&theme=light&perline=5"/>
+        <img src="https://skillicons.dev/icons?i=redis,grafana,kotlin,go,vim,nextjs,react&theme=light&perline=5"/>
     </a>
 </p>
 
