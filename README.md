@@ -3,7 +3,7 @@
 ## Backend Developer
 
 - language: Korean, English
-- interested in: `java`, `spring framework`, `Golang`
+- interested in: `java`, `kotlin`, `spring framework`, `Golang`
 - careers
   - Tripbtoz, backend developer (2023.05 ~ 2024.06)
   - Fitpet, backend developer (2022.08 ~ 2023.02)
