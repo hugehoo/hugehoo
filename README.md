@@ -5,9 +5,9 @@
 - language: Korean, English
 - interested in: `java` `kotlin` `spring framework` `Golang`
 - careers
-  - Tripbtoz, backend developer (2023.05 ~ 2024.06)
-  - Fitpet, backend developer (2022.08 ~ 2023.02)
-  - Douzone, backend developer (2020.11 ~ 2022.03)
+  - Tripbtoz, BE (2023.05 ~ 2024.06)
+  - Fitpet, BE (2022.08 ~ 2023.02)
+  - Douzone, SWE (2020.11 ~ 2022.03)
 
 <br/>
 
