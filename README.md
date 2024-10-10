@@ -15,7 +15,7 @@
 <h5 align="center"><b>Frequently using</b></h5>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,aws,py,linux,kafka,go,docker&theme=light&perline=5"/>
+        <img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,py,linux,kafka,go,docker&theme=light&perline=3"/>
     </a>
 </p>
 
