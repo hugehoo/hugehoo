@@ -15,7 +15,7 @@
 <h5 align="center"><b>Frequently using</b></h5>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,spring,mysql,aws,py,linux,kafka,go,docker&theme=light&perline=3"/>
+        <img src="https://skillicons.dev/icons?i=java,kotlin,spring,aws,py,linux,kafka,go,docker&theme=light&perline=3"/>
     </a>
 </p>
 
@@ -23,7 +23,7 @@
 <h5 align="center"><b>Now learning</b></h5>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=kotlin,vim,typescript,react,nextjs&theme=light&perline=5"/>
+        <img src="https://skillicons.dev/icons?i=vim,kubernetes&theme=light&perline=5"/>
     </a>
 </p>
 
