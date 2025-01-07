@@ -3,7 +3,7 @@
 ## Backend Developer
 
 - language: Korean, English
-- interested in: `java` `kotlin` `spring framework` `Golang`
+- interested in: `Golang` `Kafka` `Kubernetese`
 - careers
   - Buzzvil, BE (2024.12 ~ )
   - Tripbtoz, BE (2023.05 ~ 2024.06)
