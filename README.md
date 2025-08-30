@@ -3,5 +3,5 @@
 ## Backend Developer
 
 - language: Korean, English
-- interested in: `Golang` `Kafka` `Kubernetese`
+- interested in: `golang` `grpc-go` `kafka` `kubernetese`
 
